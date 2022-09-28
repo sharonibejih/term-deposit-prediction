@@ -2,7 +2,7 @@
 import pandas as pd
 
 import mlflow
-from flask import Flask, request, jsonify
+from flask import Flask, request
 
 # mlflow.set_tracking_uri("sqlite:///mlflow.db")
 # mlflow.set_experiment("term-deposit-exp")

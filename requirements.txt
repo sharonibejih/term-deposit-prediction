@@ -1,0 +1,5 @@
+flask
+matplotlib
+mlflow
+numpy
+pandas
