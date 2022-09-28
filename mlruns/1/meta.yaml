@@ -1,0 +1,4 @@
+artifact_location: file:///root/mlops/week4/mlruns/1
+experiment_id: '1'
+lifecycle_stage: active
+name: term-deposit-exp

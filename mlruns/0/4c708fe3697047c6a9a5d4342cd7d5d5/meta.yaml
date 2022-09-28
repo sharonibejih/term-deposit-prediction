@@ -1,0 +1,15 @@
+artifact_uri: file:///root/mlops/week4/mlruns/0/4c708fe3697047c6a9a5d4342cd7d5d5/artifacts
+end_time: 1656148489095
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+name: ''
+run_id: 4c708fe3697047c6a9a5d4342cd7d5d5
+run_uuid: 4c708fe3697047c6a9a5d4342cd7d5d5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1656148484718
+status: 3
+tags: []
+user_id: root
